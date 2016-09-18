@@ -1,0 +1,35 @@
+{
+  "name": "relias-slackbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "jQuery": "^1.7.4",
+    "lodash": "^4.15.0",
+    "q": "^1.4.1",
+    "request": "^2.74.0",
+    "slackbots": "^0.5.2"
+  },
+  "engines": {
+    "node": "6.4.0",
+    "npm": "3.10.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dteixeir/relias-slackbot.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "danny teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dteixeir/relias-slackbot/issues"
+  },
+  "homepage": "https://github.com/dteixeir/relias-slackbot#readme",
+  "description": ""
+}
